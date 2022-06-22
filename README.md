@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋, I'm Sharan Thakur</h1>
+<h1 align="center">Hey 👋,
+<br>I'm Sharan Thakur</h1>
 
 <h2 align="center">A passionate developer from India🇮🇳</h2>
 
