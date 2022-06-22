@@ -1,9 +1,8 @@
-<h1 align="center">Hey 👋,<br>I'm Sharan Thakur</h1>
-<h2 align="center">A passionate developer from India</h2>
+<h1 align="center">Hey 👋, I'm Sharan Thakur</h1>
 
-<br>
+<h2 align="center">A passionate developer from India🇮🇳</h2>
 
-# 💫 About Me:
+## 💫 About Me
 
 - 🔭 I’m currently working on **enhancing my problem-solving skills.**
 
@@ -17,7 +16,7 @@
 
 - ⚡ Fun fact **Super Mario characters got their names from famous musicians.**
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/captain2phones_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sharan-thakur-a4a0861b5/)
@@ -27,7 +26,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AlexmercerMe)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%ff00EA64.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sharandt19)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?style=flat&logo=Unity&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
@@ -53,20 +52,22 @@
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=c2p-cmd&theme=gruvbox&hide_border=true&no-frame=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=c2p-cmd&theme=gruvbox&no-frame=true&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=c2p-cmd&theme=gruvbox&no-frame=true&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=c2p-cmd&theme=gruvbox&hide_border=true&no-frame=true&include_all_commits=true&count_private=false)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=c2p-cmd&theme=gruvbox&no-frame=true&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c2p-cmd&theme=gruvbox&no-frame=true&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=c2p-cmd&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=c2p-cmd&theme=gruvbox&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random Dev Meme
 
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+
+![Random meme](https://random-memer.herokuapp.com/)
