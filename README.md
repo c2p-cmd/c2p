@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋,
-<br>I'm Sharan Thakur</h1>
+<br>I'm Sharan Deepak Thakur</h1>
 
 <h2 align="center">A passionate developer from India🇮🇳</h2>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently exploring **Game Dev & Full Stack App Dev.**
 
-- 👨‍💻 All of my projects are available at **[c2p-cmd](https://www.github.com/c2p-cmd/)**
+- 👨‍💻 All of my project source codes are available at **[c2p-cmd](https://www.github.com/c2p-cmd/)**
 
 - 💬 Ask me about **new technology and video games.**
 
@@ -26,6 +26,12 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Captain2Phones_)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AlexmercerMe)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%ff00EA64.svg?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sharandt19)
+
+# 📽 Projects Summary
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnP3pXUrpmsUUhIBM6PhpHwWWbBn7R8vzTAGI6TTMi08uc3SDKzsqeXuK_Hgh2OMW00dAECrBo49SC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
+</iframe>
+<br>
 
 # 💻 Tech Stack
 
