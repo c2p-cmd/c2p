@@ -46,9 +46,9 @@
 
 # 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=c2p-cmd&theme=flag-india&hide_border=true&no-frame=true&include_all_commits=true&count_private=false)
-![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=c2p-cmd&theme=flag-india&no-frame=true&hide_border=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c2p-cmd&theme=flag-india&no-frame=true&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=c2p-cmd&hide_border=true&no-frame=true&include_all_commits=true&count_private=false)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=c2p-cmd&no-frame=true&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=c2p-cmd&no-frame=true&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
