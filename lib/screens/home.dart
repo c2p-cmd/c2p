@@ -332,7 +332,7 @@ class _HomeState extends State<Home> {
                           "https://github-readme-streak-stats.herokuapp.com/?user=c2p-cmd&no-frame=true&hide_border=true",
                         ),
                         Image.network(
-                          "https://github-readme-stats.vercel.app/api/top-langs/?username=c2p-cmd&no-frame=true&hide_border=true&include_all_commits=false&count_private=false&layout=compact",
+                          "https://github-readme-stats.vercel.app/api/top-langs/?username=c2p-cmd&no-frame=true&hide_border=true&include_all_commits=false&count_private=true&layout=compact",
                         ),
                       ],
                     ),
