@@ -14,4 +14,4 @@ jobs:
       - uses: bluefireteam/flutter-gh-pages@v7
         with:
           baseHref: /c2p/
-          # webRenderer: html
+          webRenderer: html
