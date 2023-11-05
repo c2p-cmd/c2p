@@ -29,9 +29,7 @@
 
 # 📽 Projects Summary
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnP3pXUrpmsUUhIBM6PhpHwWWbBn7R8vzTAGI6TTMi08uc3SDKzsqeXuK_Hgh2OMW00dAECrBo49SC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
-</iframe>
-<br>
+[Link](https://docs.google.com/presentation/d/e/2PACX-1vRnP3pXUrpmsUUhIBM6PhpHwWWbBn7R8vzTAGI6TTMi08uc3SDKzsqeXuK_Hgh2OMW00dAECrBo49SC/embed?start=false&loop=false&delayms=3000)
 
 # 💻 Tech Stack
 
