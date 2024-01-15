@@ -1,5 +1,6 @@
-<h1 align="center">Hey 👋,
-<br>I'm Sharan Deepak Thakur</h1>
+<!-- <h1 align="center">Hey 👋, -->
+<!-- <br>I'm Sharan Deepak Thakur</h1> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=600&size=21&duration=3000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Hey+%F0%9F%91%8B%2C+My+Name+is+Sharan+Thakur)](https://git.io/typing-svg)
 
 <h2 align="center">A passionate developer from India🇮🇳</h2>
 
