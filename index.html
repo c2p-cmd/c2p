@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Sharan Thakur aka c2p-cmd</title>
+  <!-- Import element definition -->
+  <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
+  <script>
+    fetch("https://meme-api.com/gimme/ProgrammerHumor/1").then((response) => {
+      if (response.ok) {
+        response.json().then((body) => {
+          const images = body["memes"][0]["preview"];
+          console.log(images.length);
+          const imgUrl = images[images.length - 1];
+          document.getElementById("meme_img").src = imgUrl;
+          document.getElementById("meme_img").height = 420;
+        });
+      }
+    });
+
+  </script>
+</head>
+
+<body>
+  <!-- Simply set the `src` attribute to your MD file and win -->
+  <zero-md src="README.md">
+  </zero-md>
+
+  <h2>😂 Random Dev Meme</h2>
+  <img id="meme_img"></img>
+</body>
+
+</html>

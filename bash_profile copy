@@ -1,0 +1,46 @@
+source ~/.bash_prompt
+
+
+eval "$(/opt/homebrew/bin/brew shellenv)"
+# Setting PATH for Python 3.9
+# The original version is saved in .profile.pysave
+PATH="/Library/Frameworks/Python.framework/Versions/3.9/bin:${PATH}"
+PATH="/Users/captain2mac/Library/Python/3.9/bin:${PATH}"
+PATH="/usr/local/mysql/bin:${PATH}"
+export JAVA_HOME="/Users/captain2mac/development/zulu_jdk"
+export FLUTTER="/Users/captain2mac/development/flutter/bin"
+export ANDROID_SDK_ROOT="/Users/captain2mac/Library/Android/sdk"
+export ANDROID_HOME="/Users/captain2mac/Library/Android/sdk"
+export PATH="$PATH:$FLUTTER:$ANDROID_SDK_ROOT:$ANDROID_HOME"
+
+# pub cache for flutter
+export PATH="$PATH":"$HOME/.pub-cache/bin"
+
+# ruby settings
+export LANG=en_US.UTF-8
+export LANGUAGE=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+
+# chrome for flutter
+export CHROME_EXECUTABLE="/Applications/Brave Browser.app/Contents/MacOS/Brave Browser" 
+
+export HOMEBREW_GITHUB_API_TOKEN=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
+export Qt5_DIR=$(brew --prefix)/opt/qt5
+# If you need to have ffmpeg@4 first in your PATH, run:
+# echo 'export PATH="/opt/homebrew/opt/ffmpeg@4/bin:$PATH"' >> ~/.profile
+
+# For compilers to find ffmpeg@4 you may need to set:
+# export LDFLAGS="-L/opt/homebrew/opt/ffmpeg@4/lib"
+# export CPPFLAGS="-I/opt/homebrew/opt/ffmpeg@4/include"
+export LDFLAGS="-L/opt/homebrew/opt/libomp/lib"
+export CPPFLAGS="-I/opt/homebrew/opt/libomp/include"
+
+
+# For pkg-config to find ffmpeg@4 you may need to set:
+export PKG_CONFIG_PATH="/opt/homebrew/opt/ffmpeg@4/lib/pkgconfig"
+export PATH="/opt/homebrew/opt/ffmpeg@4/bin:$PATH"
+
+
+# Added by Toolbox App
+export PATH="$PATH:/Users/captain2mac/Library/Application Support/JetBrains/Toolbox/scripts"
+export BASH_SILENCE_DEPRECATION_WARNING=1
